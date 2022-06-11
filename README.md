@@ -24,6 +24,11 @@ Enjoy!
   <img src="https://i.imgur.com/gp0iobx.png" width="350" alt="Pro">
 </p>
 
+## Team Members
+- **Akshata Gunapache**
+- **Marada Likitha**
+- **Nikitha V**
+
 ## Conclusion
 This was a simple game developed in Python as a First Semester Project.
 
